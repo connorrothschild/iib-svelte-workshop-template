@@ -1,6 +1,6 @@
 <script>
   import Example from "./lib/Example.svelte";
-  import data from "./data/data.js";
+  import data from "./data/data.json";
   console.log(data);
 </script>
 
